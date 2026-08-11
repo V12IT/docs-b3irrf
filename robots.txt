@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dqk4ai.shadowdiary.com/sitemap.xml
